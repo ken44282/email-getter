@@ -1,14 +1,10 @@
 # email-getter
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+This program is a program that outputs mail to a file obtained from gmail.
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 Kenji Nagai
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
